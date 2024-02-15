@@ -1,0 +1,10 @@
+/* public/css/style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+form {
+    margin-bottom: 20px;
+}
+input, button {
+    margin-right: 10px;
+}
